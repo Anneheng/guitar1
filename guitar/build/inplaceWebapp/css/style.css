@@ -1,0 +1,9 @@
+# Empty CSS file for your own CSS
+.fl{ float:left;}
+.fr{ float:right;}
+
+.top{ background-color:fff;}
+.shop{ display:inline-black; width:349px;}
+.shoplink{ display:inline-black; padding:0 auto;}
+.js{ font-weight:bold; color:#0000FF;}
+.shopcar{ text-decoration:none; color:#000000; font-weight:bolder;}
